@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "800090810120",
+    "firebase_url": "https://remedios-a2a1b.firebaseio.com",
+    "project_id": "remedios-a2a1b",
+    "storage_bucket": "remedios-a2a1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800090810120:android:4aaf80c17de55f15b1eebd",
+        "android_client_info": {
+          "package_name": "com.aline.meus_remedios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800090810120-alo1v6cqfhmev2a1elslq96hns9so9di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuWfaFvKK38reqLNPKBvAVoTLxEROirH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800090810120-alo1v6cqfhmev2a1elslq96hns9so9di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800090810120:android:3660931ac9d1cb47b1eebd",
+        "android_client_info": {
+          "package_name": "com.remedios.remedios"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800090810120-alo1v6cqfhmev2a1elslq96hns9so9di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuWfaFvKK38reqLNPKBvAVoTLxEROirH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800090810120-alo1v6cqfhmev2a1elslq96hns9so9di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
